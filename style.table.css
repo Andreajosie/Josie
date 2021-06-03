@@ -1,0 +1,120 @@
+*{box-sizing: border-box
+    
+}
+ 
+
+
+ 
+
+table{
+    border-bottom: 2px;
+width: 80%;
+border-collapse: collapse;
+
+}
+ th, td {
+    padding: 9px;
+   border-bottom: 2px solid black;
+   text-align: center;
+   border-left: none;
+   border-right: none;
+}
+
+
+
+
+tr{
+    border-top: 4px;
+    border-bottom: 4px;
+    border-collapse: collapse;
+    
+}
+table{ border-color: black;
+
+}
+th{
+    background-color:white;
+    
+}
+td:nth-child(4) {
+    background-color:indianred;
+    color: black;
+}
+
+td:nth-child(5) {
+    background-color:indianred;
+    color: black;
+}
+
+td:nth-child(6) {
+    background-color:indianred;
+    color: black;
+}
+td:nth-child(7) {
+    background-color:indianred;
+    color: black;
+}
+    td:nth-child(8) {
+        background-color:indianred;
+        color: black;
+    }
+        td:nth-child(9) {
+            background-color:indianred;
+            color: black;
+}
+
+
+
+td:nth-child(17) {
+    background-color:seagreen;
+    color: black;
+
+}
+    td:nth-child(10) {
+        background-color:rgb(223, 209, 15);
+        color: black;
+    }
+        td:nth-child(11) {
+            background-color:rgb(223, 209, 15);
+            color: black;
+        }
+            td:nth-child(13) {
+                background-color:rgb(223, 209, 15);
+                color: black;
+            }
+                td:nth-child(12) {
+                    background-color:rgb(223, 209, 15);
+                    color: black;
+                }
+                    td:nth-child(14) {
+                        background-color:rgb(223, 209, 15);
+                        color: black;
+                    }
+                    td:nth-child(15) {
+                        background-color:rgb(223, 209, 15);
+                        color: black;
+                    }
+                        td:nth-child(26) {
+                            background-color:indigo;
+                            color: black;
+                        }
+                            td:nth-child(25) {
+                                background-color:indigo;
+                                color: black;
+                            }
+                            
+                    
+
+td:nth-child(23) {
+    background-color:indigo;
+    color: black;
+}
+ td:nth-child(2) {
+background-color:grey;
+ }
+ td:nth-child(20) {
+    background-color:grey;
+     }
+     td:nth-child(19) {
+        background-color:red;
+         }
